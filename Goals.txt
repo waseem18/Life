@@ -1,0 +1,2 @@
+* I want to build a popular open source project that lots of other people find it useful.
+My goal is write code that gets 1000 stars on Github. (It's not the stars that are important. But it's a good approximation of how many people I want the code to reach!)
