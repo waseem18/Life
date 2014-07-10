@@ -1,7 +1,7 @@
 Wasim Thabraze
 ===============
 
-<b>I have Goals and Achievements</b>
+I have <b>Goals</b> and <b>Achievements</b>
 
 <h3>What's this?</h3>
 
