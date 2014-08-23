@@ -4,7 +4,7 @@ Wasim Thabraze
 I have <b>Goals</b> and <b>Achievements</b>
 
 
-Checkout the issues of this repository to find my goals and achievements.
+Checkout the <a href="https://github.com/waseem18/Life/issues"><b>issues</b></a> of this repository to find my goals and achievements.
 
 
 
