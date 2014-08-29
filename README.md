@@ -14,11 +14,8 @@ Checkout the <a href="https://github.com/waseem18/Life/issues"><b>issues</b></a>
 An experiment in treating life like a software project!
 
 <br>
-<br>
-
-
 
 <b>Quote that inspired me to start this repository:</b>
 
 
-Set daily, monthly and long ternm goals. Don't ever be afraid to dream too big. Nothing is impossible if you believe in yourself. You can achieve it.
+Set daily, monthly and long term goals. Don't ever be afraid to dream too big. Nothing is impossible if you believe in yourself. You can achieve it.
